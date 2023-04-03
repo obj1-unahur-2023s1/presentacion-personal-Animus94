@@ -1,4 +1,3 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
 
 Buenas!
 Mi nombre es Juan Manuel, estudio tec. en programacion!
